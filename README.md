@@ -1,7 +1,7 @@
-👋 Hi, I’m Risha Bongu 
-👀 I’m interested in Cybersecurity and AI
-🌱 I’m currently learning SQL and Java
-📫 How to reach me risha.bongu@gmail.com
+- 👋 Hi, I’m Risha Bongu 
+- 👀 I’m interested in Cybersecurity and AI
+- 🌱 I’m currently learning SQL and Java
+- 📫 How to reach me risha.bongu@gmail.com
 - ⚡ Fun fact: Brooklyn 99 is my favorite show right now!
 
 <!---
